@@ -4,6 +4,8 @@
 > **"Poisson–Gaussian Image Denoising: A Unified Survey from Statistical Inference to Deep Learning Benchmarks"**
 > *Submitted to* **The Visual Computer**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24468008.svg)](https://doi.org/10.5281/zenodo.24468008)
+
 This repository accompanies the survey and provides (i) reference implementations of the classical Poisson–Gaussian (PG) denoising methods reviewed in the paper, (ii) the benchmark table-generation scripts and evaluation protocols, (iii) the two-axis taxonomy figure, and (iv) curated dataset links.
 
 If you use the code, data, benchmark protocol, or any figure provided here, please cite the associated paper.
@@ -177,7 +179,8 @@ If you use this repository, benchmark, or associated methods, please cite the pa
   title={Poisson--Gaussian Image Denoising: A Unified Survey — Companion Repository},
   author={Peng, Pai and Ma, Chongya and Chen, Hechan and Li, Chenglong and Xiaokaiti, Aizimaiti},
   year={2025},
-  publisher={GitHub},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.24468008},
   howpublished={\url{https://github.com/smallsmallchiken/pg-denoising-survey}}
 }
 ```
