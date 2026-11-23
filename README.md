@@ -41,6 +41,7 @@ This repository contains the reference implementations and reproducible evaluati
 │   └── protocols.md            # Evaluation protocols and noise parameterisation
 ├── BSD100/  BSD500/  BSD68/    # Grayscale reference image sets (test data)
 ├── Set12/                      # Classic 12-image set
+├── FMD/README.md               # FMD dataset download link (data not hosted)
 ├── LICENSE
 └── README.md
 ```

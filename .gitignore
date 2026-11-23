@@ -17,7 +17,7 @@ __pycache__/
 Thumbs.db
 desktop.ini
 
-# Large datasets — do not track raw data
+# Large datasets — do not track raw data (FMD/FDM download dir only)
 FDM/
 *.tar
 *.zip
